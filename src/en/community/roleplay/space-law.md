@@ -26,8 +26,13 @@ Removal
 
 A suspect can be forced to receive implant removal if there is strong reasonable proof that they have been implanted, such as an officer seeing them use one or their prints being on a discarded injector. Unlike implantation procedure a prisoner can have their sentence entirely delayed or extended until they comply with the procedure, as long as security are actively making attempts to preform it. Akin to implanting, if an inmate gives their clear permission, implant removal can proceed without proof. 
 
+## Trials
+**Trial Staff & Setup:** If a trial is requested for a degree IV/V crime, or for stackable crimes qualifying for perma, it must be granted. If no attorney's are present, then command must appoint an impartial defense attorney. The Judge will typically be the highest ranking member of Command, unless otherwise appointed by Command. Prosecution will fall to the HoS or Warden, or assigned by Command to another if they are unavailable. Defense must be granted an opportunity to discuss the case with their client prior to trial, and shown the evidence which prosecution is in possession.
+
+**Trial Procedure:** Defense and Prosecution will both be given the opportunity to make short opening statements. Prosecution should declare their intended sentence at this time. Any evidence related to the case should be presented by Prosecution. Defense will attempt to disqualify certain pieces of evidence if they are able. Defense and Prosecution will both be allowed to call 3 witnesses, and ask each witness up to 3 questions. Objections may be made by either side during witness questions and testimony. The case will then be concluded by the presiding Judge with a guilty or innocent judgement. If guilty, the Judge will either enact the Prosecutions sentence, or modify it to a lesser degree if the Defense made good arguments.
+
 ## Sentencing
-All sentencing is to be handled by the Warden, if no Warden is available the HoS is to take over that duty, if there's no HoS it falls onto the highest ranking command member.
+All sentencing is to be handled by the Warden for degree III and lower crimes, if no Warden is available the HoS is to take over that duty, if there's no HoS it falls onto the highest ranking command member. The Warden may sentence degree IV/V crimes as well, but only if the accusesed criminal does not request a lawyer and trial.
 
 Use common sense and humanity when issuing punishments. You should not always seek out the highest punishment you can, you don't have to always give the maximum time or always look to demote someone. Always take in account the severity and only charge for what is needed for someone to learn their lesson.
 
@@ -39,7 +44,8 @@ Any total brig time that adds up to above 10 minutes will be shortened to meet t
 If the sentence exceeds or is exactly 20 minutes, you may perma the person.
 ```
 
-
+**Contraband:** Certian items are considered contraband, and most are labelled as such. However, some items are contraband without proper authorization. 
+These items are: TBD
 
 ## Crimes
 ### I Degree
