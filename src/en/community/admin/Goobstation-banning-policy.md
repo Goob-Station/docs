@@ -91,6 +91,10 @@ Bolded suggestions in ranges are recommended for most cases.
 Rule violations not in the offense table can still have bans applied, but have no guidelines. Administrators can look to guidelines of similar offenses to aid in determining a response.
 ```
 
+```admonish info
+Any player who requests to be banned from a department or from the server may be banned indefinitely until appealed or requested to be unbanned via ingame admin help.
+```
+
 | Abreviation | Meaning    |
 |-------------|------------|
 | W           | Warning    |
@@ -113,7 +117,7 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Non-grouping | Multi-keying | W - **Indef** GB | Indef GB | | |
 | Non-grouping | Ahelp misuse in bad faith[^badFaith] | **W** - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
 | Non-grouping | Threats to ahelp | **W** - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
-| Non-grouping | Under 14 | Indef GB | | | |
+| Non-grouping | Under 16, or acts under 16. | Indef GB | | | |
 | Non-grouping | Bad character name[^requiresIntent] | **W** - 12hr GB | **12hr** - 3d GB | **7d** - 7.5d GB | |
 | Language | Non-english chat | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Language | Solely non-english chat | W | Indef GB | | |
@@ -131,7 +135,7 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Metagaming | Metagaming round type | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB | |
 | Metagaming | IC in OOC[^positiveException] | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Powergaming | Preparing items not needed IC | W | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB |
-| Self-antag | Self-antag[^excludingEscalationIssues] | W - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
+| Self-antag | Self-antag[^excludingEscalationIssues] | W - 1d GB | 2d - 4d GB | **14d** - 16d GB | Indef GB |
 | Self-antag | Station sabotage[^stationSabotage] | W - 3d GB | 12hr - 7d GB | 14d - 15d GB | |
 | Self-antag | Cults/riots/revolutions | **12hr** - 3d GB | 12hr - **3d** - 7d GB | **7d** - 7.5d GB | |
 | Self-antag | Cooperating with known antags | 12hr GB | 3d GB | **7d** - 7.5d GB | |
@@ -145,9 +149,14 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Griefing | Antag rolling | 12hr - 3d GB | 3d - 7d GB | **7d** - 7.5d GB | |
 | Griefing | Damage/disruption to arrivals/arrivals shuttle | 12hr - 3d GB | 3d - 7d GB | 7d - 15d GB | |
 | Escalation | Over escalation[^eachVictim] | W | 12hr GB | 3d GB | **7d** - 7.5d GB |
-| Escalation | RDM[^eachVictim] | 12hr GB | 3d GB | **7d** - 7.5d GB | |
+| Escalation | RDM[^eachVictim] | **1d** - 3d GB | 5d GB | **9d** - 9.5d GB | Indef GB |
 | Escalation | Over escalation or RDM that is a secondary result of station sabotage[^stationSabotageRDM] | 12hr GB | 3d GB | **7d** - 7.5d GB | |
-| Competence | Unreasonable incompetence in role | W - **3d** - 7d RB | 7d - 15d RB | Indef RB | |
+| Competence | Unreasonable incompetence in Security | W - **5d** - 9d RB | 9d - 16d RB | Indef RB | |
+| Competence | Unreasonable incompetence in Engineering | W - **4d** - 8d RB | 8 - 15d RB | Indef RB | |
+| Competence | Unreasonable incompetence in Medical | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
+| Competence | Unreasonable incompetence in Supply | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
+| Competence | Unreasonable incompetence in Science | **W** - 3d - 6d RB | 6d - 14d RB | 14d - 21d RB | Indef RB | | 
+| Competence | Unreasonable incompetence in Service | **W** - 2d - 5d RB | 5d - 10d RB | 10d - 15 RB | Indef RB | |
 | Competence | Abuse of a position of authority | 3d - 7d RB | 7d - 15d RB | Indef RB | |
 | Competence | Taking actions a reasonable person would view as to be to the detriment of the station as security/command | 3d - 7d RB | 7d - 15d RB | Indef RB | |
 | Competence | Unreasonable failure of security/command to follow space law | W - **3d** - 7d RB | 7d - 15d RB | Indef RB | |
@@ -178,64 +187,6 @@ Rule violations not in the offense table can still have bans applied, but have n
 
 [^requiresIntent]: Offenses where the admin does not believe a violation to have been intentional may be reduced to a warning and do not need to be considered a past offense when evaluating guidelines for future offenses.
 
-## Modifiers Tables
-
-```admonish info
-> Modifiers can be applied to each offense that meets their conditions. They are typically in the form of multipliers.
-```
-
-```admonish info
-Warnings cannot be multiplied. An offense which lists W as a suggestion cannot have that suggestion multiplied into a GB, but the guideline can still be strayed from with the same conditions as other parts of the guidelines can be strayed from.
-```
-
-```admonish info
-An offense which lists W - 12h GB as a suggestion that is affected by a 2x multiplier would become a W - 24h GB suggestion.
-```
-
---------------------
-
-### Mitigating: Required
-
-```admonish info
-These mitigating modifiers must be applied if they are applicable.
-```
-
-| Modifier | Modification |
-|----------|--------------|
-| Valid Rule Clarification | No more than a warning should be given to a player that justifies the offense with a reasonably cited active rule clarification, even if it is not up to date with current rules. |
-| Self report | Reduce to warning. Applies to any offense where the player reports themselves as long as the offense was unlikely to be identified otherwise. |
-
-
-### Mitigating: Discretionary
-
-```admonish info
-These mitigating modifiers are applied at the discretion of the admin and may be partially applied. Admins are highly encouraged to consider applying these when they are relevant as they can significantly help to avoid bans which will be accepted on appeal.
-```
-
-| Modifier | Modification |
-|----------|--------------|
-| New player | If there is no prior warning for the same issue, and if the minimum suggestion is not an indefinite ban, reduce to warning at admin discretion and instruct to read the rules. |
-| Caught before round effects | If there are no earlier similar issues, any issue caught before it affects the round and other players can be reduced to a warning at admin discretion. |
-| Admin intervention | Any reduction, including to nothing, may be applied for any offense which is plausibly the result of admin intervention. |
-
-### Aggravating
-
-```admonish info
-Aggravating modifieres are applied at the discretion of the admin and may be partially applied.
-```
-
-| Modifier | Modification |
-|----------|--------------|
-| Repeat game bans | A multiplier equal to 1 plus the number of game bans in the last 6 months which resulted from offenses from other grouping categories. |
-| Metagrudging | **2x** multiplier if the offense is the result of metagrudging by the offender. |
-| Prior indefinite ban | **7d** can be added to the total game ban length if the player has had any prior indefinite ban in the last 6 months. Excluding bans used only for contact and ones where they were found to be not at fault. |
-| Round removal | **2x** multiplier for any offense which results in someone being permanently removed from a round, including an attempt to do so and actions likely to result in permanent round removal. |
-| Lying in ahelp | **24h + 3x** multiplier if the offender maliciously lies in the ahelp. You should be certain that they have lied. The multiplier is applied after the 24h addition is made. |
-| Command/Security | **2x** multiplier if the offender is in command or security |
-| Intentional rule breaking | **3x** multiplier. Includes any rule breaking where the player intentionally breaks a rule knowing they are breaking a rule, knowing they will get banned, or claims to not care if they get banned. Any reasonably clear rule violation can be presumed to be intentional if the player was told to read the rules in the last 12 hours. |
-| Role specific | Any issue that is likely to be prevented by a role ban should include a role ban if a game ban is applied. The role ban can be applied in addition to or as an alternative to the suggested game ban. Game ban suggestions can be converted to role ban suggestion times by doubling the time. |
-| Ban request/demand | Any player who demands or requests a ban can be banned indefinitely. |
-
 ## Grouping and Stacking
 
 - When separate offenses occur, the suggested time should be determined by summing the suggestions for each separate offense.
@@ -262,25 +213,11 @@ A technical assistant sets the AME to 50. Their offenses are:
 - Self antag
 - Station sabotage
 - Unreasonable incompetence in role
-Self antag and station sabotage are part of the same grouping category, so are treated as only station sabotage. Both remaining offenses can have the new player modifier applied if the player is new to the game, which would allow the offenses to result in only a warning and an instruction to read the rules. The station sabotage offense may optionally have the role specific modifier applied. Any of the following total suggestions are valid:
-- With new player modifier
-	- W - 3d GB + W - 7d RB
-- With role specific modifier
-	- W - 3d GB + W - 13d RB if the role ban is applied in addition to the game ban, or
-	- W - 13d RB if the role ban is applied as an alternative
-
-### RDM + Lying
-A player RDMs another. When asked why they killed the other player, they say they haven't done anything all round other than walk around, despite having just beaten the victim to death with a bat. Their offenses are:
-- 1x RDM
-
-The lying in ahelp modifier applies. The resulting guideline is:
-- 36hr - 4.5d GB
+Self antag and station sabotage are part of the same grouping category, so are treated as only station sabotage.
 
 ### Over escalation with history of issues
 A player over escalates in a way unlikely to result in the victim's round removal. They have a prior offense of RDM, a prior offense of self-antagging, and a prior offense of griefing the arrivals terminal. They have no prior bans. The offenses in this case are:
 - 1x over escalation
-
-No modifiers apply. Only the prior RDM offense is relevant because it is the only one in the same grouping category. The prior RDM offense means that for the current over escalation incident, second offense guidelines are used.
 
 # Appeals
 
