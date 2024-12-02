@@ -91,6 +91,10 @@ Bolded suggestions in ranges are recommended for most cases.
 Rule violations not in the offense table can still have bans applied, but have no guidelines. Administrators can look to guidelines of similar offenses to aid in determining a response.
 ```
 
+```admonish info
+Any player who requests to be banned from a department or from the server may be banned indefinitely until appealed or requested to be unbanned via ingame admin help.
+```
+
 | Abreviation | Meaning    |
 |-------------|------------|
 | W           | Warning    |
@@ -113,7 +117,7 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Non-grouping | Multi-keying | W - **Indef** GB | Indef GB | | |
 | Non-grouping | Ahelp misuse in bad faith[^badFaith] | **W** - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
 | Non-grouping | Threats to ahelp | **W** - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
-| Non-grouping | Under 14 | Indef GB | | | |
+| Non-grouping | Under 16, or acts under 16. | Indef GB | | | |
 | Non-grouping | Bad character name[^requiresIntent] | **W** - 12hr GB | **12hr** - 3d GB | **7d** - 7.5d GB | |
 | Language | Non-english chat | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Language | Solely non-english chat | W | Indef GB | | |
@@ -131,7 +135,7 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Metagaming | Metagaming round type | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB | |
 | Metagaming | IC in OOC[^positiveException] | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Powergaming | Preparing items not needed IC | W | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB |
-| Self-antag | Self-antag[^excludingEscalationIssues] | W - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
+| Self-antag | Self-antag[^excludingEscalationIssues] | W - 1d GB | 1d - 3d GB | **3d** - 7d GB | 7d - 9d | Indef GB |
 | Self-antag | Station sabotage[^stationSabotage] | W - 3d GB | 12hr - 7d GB | 14d - 15d GB | |
 | Self-antag | Cults/riots/revolutions | **12hr** - 3d GB | 12hr - **3d** - 7d GB | **7d** - 7.5d GB | |
 | Self-antag | Cooperating with known antags | 12hr GB | 3d GB | **7d** - 7.5d GB | |
@@ -145,9 +149,15 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Griefing | Antag rolling | 12hr - 3d GB | 3d - 7d GB | **7d** - 7.5d GB | |
 | Griefing | Damage/disruption to arrivals/arrivals shuttle | 12hr - 3d GB | 3d - 7d GB | 7d - 15d GB | |
 | Escalation | Over escalation[^eachVictim] | W | 12hr GB | 3d GB | **7d** - 7.5d GB |
-| Escalation | RDM[^eachVictim] | 12hr GB | 3d GB | **7d** - 7.5d GB | |
+| Escalation | RDM[^eachVictim] | **1d** - 3d GB | 5d GB | **9d** - 9.5d GB | Indef GB |
 | Escalation | Over escalation or RDM that is a secondary result of station sabotage[^stationSabotageRDM] | 12hr GB | 3d GB | **7d** - 7.5d GB | |
-| Competence | Unreasonable incompetence in role | W - **3d** - 7d RB | 7d - 15d RB | Indef RB | |
+| Competence | Unreasonable incompetence in Command | W - **5d** - 9d RB | 9d - 16d RB | Indef RB | |
+| Competence | Unreasonable incompetence in Security | W - **5d** - 9d RB | 9d - 16d RB | Indef RB | |
+| Competence | Unreasonable incompetence in Engineering | W - **4d** - 8d RB | 8 - 15d RB | Indef RB | |
+| Competence | Unreasonable incompetence in Medical | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
+| Competence | Unreasonable incompetence in Supply | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
+| Competence | Unreasonable incompetence in Science | **W** - 3d - 6d RB | 6d - 14d RB | 14d - 21d RB | Indef RB | | 
+| Competence | Unreasonable incompetence in Service | **W** - 2d - 5d RB | 5d - 10d RB | 10d - 15 RB | Indef RB | |
 | Competence | Abuse of a position of authority | 3d - 7d RB | 7d - 15d RB | Indef RB | |
 | Competence | Taking actions a reasonable person would view as to be to the detriment of the station as security/command | 3d - 7d RB | 7d - 15d RB | Indef RB | |
 | Competence | Unreasonable failure of security/command to follow space law | W - **3d** - 7d RB | 7d - 15d RB | Indef RB | |
@@ -194,18 +204,6 @@ An offense which lists W - 12h GB as a suggestion that is affected by a 2x multi
 
 --------------------
 
-### Mitigating: Required
-
-```admonish info
-These mitigating modifiers must be applied if they are applicable.
-```
-
-| Modifier | Modification |
-|----------|--------------|
-| Valid Rule Clarification | No more than a warning should be given to a player that justifies the offense with a reasonably cited active rule clarification, even if it is not up to date with current rules. |
-| Self report | Reduce to warning. Applies to any offense where the player reports themselves as long as the offense was unlikely to be identified otherwise. |
-
-
 ### Mitigating: Discretionary
 
 ```admonish info
@@ -217,7 +215,8 @@ These mitigating modifiers are applied at the discretion of the admin and may be
 | New player | If there is no prior warning for the same issue, and if the minimum suggestion is not an indefinite ban, reduce to warning at admin discretion and instruct to read the rules. |
 | Caught before round effects | If there are no earlier similar issues, any issue caught before it affects the round and other players can be reduced to a warning at admin discretion. |
 | Admin intervention | Any reduction, including to nothing, may be applied for any offense which is plausibly the result of admin intervention. |
-
+| Self report | Reduce to warning. Applies to any offense where the player reports themselves as long as the offense was unlikely to be identified otherwise. |
+| Valid Rule Clarification | No more than a warning should be given to a player that justifies the offense with a reasonably cited active rule clarification, even if it is not up to date with current rules. |
 ### Aggravating
 
 ```admonish info
@@ -234,7 +233,6 @@ Aggravating modifieres are applied at the discretion of the admin and may be par
 | Command/Security | **2x** multiplier if the offender is in command or security |
 | Intentional rule breaking | **3x** multiplier. Includes any rule breaking where the player intentionally breaks a rule knowing they are breaking a rule, knowing they will get banned, or claims to not care if they get banned. Any reasonably clear rule violation can be presumed to be intentional if the player was told to read the rules in the last 12 hours. |
 | Role specific | Any issue that is likely to be prevented by a role ban should include a role ban if a game ban is applied. The role ban can be applied in addition to or as an alternative to the suggested game ban. Game ban suggestions can be converted to role ban suggestion times by doubling the time. |
-| Ban request/demand | Any player who demands or requests a ban can be banned indefinitely. |
 
 ## Grouping and Stacking
 
@@ -281,106 +279,3 @@ A player over escalates in a way unlikely to result in the victim's round remova
 - 1x over escalation
 
 No modifiers apply. Only the prior RDM offense is relevant because it is the only one in the same grouping category. The prior RDM offense means that for the current over escalation incident, second offense guidelines are used.
-
-# Appeals
-
-## Appeals of Incorrect Bans
-
-Unless the ban was an upgrade resulting from an unsucessful appeal, if an appeal disputes the events which were used to justify the ban, the first appeal of a voucher or permanent ban may only be declined after it has been verified that it was appropriately placed.
-
-## Appeal Hijacking
-
-If an appeal is currently assigned to someone, it is generally best to let them finish processing the it. Cases where it may be acceptable to "hijack" an appeal are:
-- the processor has not responded to the appeal recently,
-- the processor has somehow indicated that they are not going to process the appeal, or
-- a head game admin has told you that you can process the appeal.
-
-## Processing by Trial Admins
-
-Trial admins may only process appeals if each action they take, excluding internal discussions, is checked and approved by a supervising propermin before being taken. Supervising propermins are responsible for ensuring that the appeals are processed appropriately, including ensuring that the trialmin performs appropriate investigation of the ban if they are also performing that part of the processing.
-
-## Appeal Procedure
-
-### Standard Procedure
-
-1. Check appeal format.
-3. Checking for ban evasion and denying the appeal if it is found is highly recommended, but not required.
-4. If you placed the ban, you can not continue processing the appeal.
-5. Collect information
-	1. Check the player's history of appeals.
-	2. Make a reasonable attempt to verify any claims made in the appeal by the player, or accept them to be true.
-	3. Check the player's note and ban history.
-	4. Reading the ahelp that led to the ban is highly recommended.
-	5. Attempt to contact the banning admin.
-	6. Ask the player questions that are important for the processing of the appeal.
-	7. Attempt to allow the player to respond to information which will be considered in the appeal that it would be unfair to not allow them the opportunity to address.
-7. Run a vote
-	- An attempt to contact the banning admin must have been made prior to starting a vote. A ping in the #ban-appeals forum post notifying them about the appeal and 24 hours of time to respond is considered to be a sufficient attempt.
- 	- Votes must run at least 24 hours unless the net vote criteria is met.
-	- Votes must not be closed if there is ongoing discussion unless the net vote criteria is met.
-	- Votes must be made in one of the designated internal appeals discussion channels.
-	- Votes should present as much relevant information as possible.
-	- Votes should indicate if the ban is within guidelines, preferably by presenting the guideline range for the ban.
-8. If the result is to upgrade the ban, deny the appeal and inform the player of the upgrade on the appeal's thread. The player must be told how and when they can appeal again, or explicitly that they cannot appeal again.
-9. If the result is to deny the appeal, deny the appeal.
-	- The player should be told when they can re-appeal. This should typically be double the time they were given for the last appeal for the same ban, or two weeks if there was no prior appeal for the same ban.
-10. Check for ban evasion and deny the appeal if it is found.
-11. If the result is to reduce the ban, replace the ban with a ban with the reduced length, tell the player the details of the reduction, and mark the appeal as accepted.
-12. If the result is to remove the ban, tell the player that the appeal has been accepted and accept the appeal.
-
-### Net Vote Expedited Processing
-
-This is an optional expedition to votes done under the standard procedure that can be used at the discretion of the processing admin.
-
-Net votes cannot result in an upgrade to a voucher ban or to a permanent ban.
-
-If an appeal is being processed using the standard procedure, votes can be processed earlier than 24 hours, even if discussion is ongoing. To do this, the vote must have at least 10 "net votes" for the winning option. Net votes are only possible when all vote options which affect the outcome of the appeal are distinct rather than on a spectrum. Distinct options are ones where voters are unlikely to be equally in favor of multiple options. Remove/reduce/deny and Remove/reduce/voucher votes are both considered to have only distinct options. A vote with multiple options for how long to reduce a ban to is not considered distinct, even if each option is split into its own yes/no vote. This means that a Remove/reduce/deny vote cannot be processed early if there is also an ongoing vote for the reduction time, even if they are separate votes, unless the net vote is to remove the ban or deny the appeal.
-
-To calculate the number of net votes, subtract the total number of votes for all other options from the winning option. The processing admin's vote can be included. Staging votes, votes made to make an option easily available for voters, can not be included.
-
-#### Net Vote Examples
-
-In these examples, the vote numbers are remove/reduce/voucher.
-
-- 4/5/2 = no positive net votes, can not process based on net votes
-- 2/6/2 = 2 net votes for reduce, can not process based on net votes because the threshold has not been met
-- 3/1/1 = 1 net vote for remove, can not process based on net votes because the threshold has not been met
-- 0/0/5 = 5 net votes for voucher, can not process based on net votes because the threshold has not been met and the winning option is to voucher
-- 10/0/15 = 5 net votes for voucher, can not process based on net votes because the threshold has not been met and the winning option is to voucher
-- 14/0/3 = 11 net votes for remove, qualifies for expedited processing due to net votes
-
-### Speedy Appeal Procedure
-
-This is an optional alternate procedure that can be used at the discretion of the processing admin if at least one of the criteria are met:
-- the ban is a temporary ban and the player indicated on the appeal that they are ok with it being processed without a vote,
-- the ban length is less than or equal to 14 days,
-- this appeal is older than 7 days and no other admin is handling the appeal, or
-- the result of the appeal is obvious.
-	- Similar appeals of bans for similar situations are almost always accepted.
-	- So little effort was made in the appeal, that it is improbable it would be accepted.
-
-The speedy appeal procedure does not allow upgrades to voucher or permanent bans due to the voting requirement those bans have.
-
-1. Check appeal format.
-3. Checking for ban evasion and denying the appeal if it is found is highly recommended, but not required.
-4. If you placed the ban, you can not continue processing the appeal.
-5. Collect information
-	1. Check the player's history of appeals.
-	2. Make a reasonable attempt to verify any claims made in the appeal by the player, or accept them to be true.
-	3. Check the player's note and ban history.
-	4. Reading the ahelp that led to the ban is highly recommended.
-	5. Attempt to contact the banning admin.
-	6. Ask the player questions that are important for the processing of the appeal.
-	7. Attempt to allow the player to respond to information which will be considered in the appeal that it would be unfair to not allow them the opportunity to address.
-7. Make a determination on the desired outcome, then use #game-admin-appeals-meta to find another admin that agrees with processing it using that speedy outcome.
-   	- The second admin must not be the banning admin.
-   	- The second admin must agree with both the outcome of the appeal and with the decision to use the speedy appeal procedure.
-   	- If you are aware of any admin who disagrees with your proposed outcome or with the decision to use the speedy appeal procedure, a hidden post must be made on the appeal itself indicating that speedy processing is contested, and the appeal must be processed using the standard procedure.
-8. If the result is to deny the appeal, deny the appeal.
-	- The player should be told when they can re-appeal. This should typically be double the time they were given for the last appeal for the same ban, or two weeks if there was no prior appeal for the same ban.
-	- Use the "Speedy Appeal" saved action to notify the player of the process that was used.
-9. Check for ban evasion and deny the appeal if it is found.
-10. If the result is to reduce the ban, replace the ban with a ban with the reduced length, tell the player the details of the reduction, and mark the appeal as accepted.
-	- Use the "Speedy Appeal" saved action to notify the player of the process that was used.
-11. If the result is to remove the ban, tell the player that the appeal has been accepted and accept the appeal.
-	- If the appeal was processed using the speedy appeal process and the ban time was within guidelines, you must be able to articulate why the appeal was accepted and should do this on the appeal itself.
