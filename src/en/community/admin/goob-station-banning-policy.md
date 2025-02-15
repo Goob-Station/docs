@@ -119,6 +119,7 @@ Any player who requests to be banned from a department or from the server may be
 | Non-grouping | Threats to ahelp | **W** - 12hr GB | 12hr - 3d GB | **7d** - 7.5d GB | |
 | Non-grouping | Under 16, or acts under 16. | Indef GB | | | |
 | Non-grouping | Bad character name[^requiresIntent] | **W** - 12hr GB | **12hr** - 3d GB | **7d** - 7.5d GB | |
+| Non-grouping | Mini-modding | W | W-**1d** GB | 1d-2d GB | 2d-**4d** GB | 4d-**8d** GB |
 | Language | Non-english chat | W | W - 12hr GB | 3d GB | **7d** - 7.5d GB |
 | Language | Solely non-english chat | W | Indef GB | | |
 | Exploits | Bugs/exploits | **W** - 7d GB | 12hr - 7d GB | 3d - 15d GB | 7d - 15d GB |
@@ -155,7 +156,7 @@ Any player who requests to be banned from a department or from the server may be
 | Competence | Unreasonable incompetence in Security | W - **5d** - 9d RB | 9d - 16d RB | Indef RB | |
 | Competence | Unreasonable incompetence in Engineering | W - **4d** - 8d RB | 8 - 15d RB | Indef RB | |
 | Competence | Unreasonable incompetence in Medical | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
-| Competence | Unreasonable incompetence in Supply | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
+| Competence | Unreasonable incompetence in Cargo | W - **4d** - 7d RB | 7d - 14d RB | Indef RB
 | Competence | Unreasonable incompetence in Science | **W** - 3d - 6d RB | 6d - 14d RB | 14d - 21d RB | Indef RB | | 
 | Competence | Unreasonable incompetence in Service | **W** - 2d - 5d RB | 5d - 10d RB | 10d - 15 RB | Indef RB | |
 | Competence | Abuse of a position of authority | 3d - 7d RB | 7d - 15d RB | Indef RB | |
