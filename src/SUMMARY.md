@@ -30,6 +30,7 @@ General Development
   - [Help, I'm So Lost](en/general-development/codebase-info/im-so-lost.md)
   - [Conventions](en/general-development/codebase-info/conventions.md)
   - [Pull Request Guidelines](en/general-development/codebase-info/pull-request-guidelines.md)
+  - [Goobmodules and You](en/general-development/codebase-info/goobmodules-and-you.md)
 - [Feature Proposals](en/general-development/feature-proposals.md)
   - [Feature Proposal Template](en/templates/proposal.md)
   - [Expected Team Decorum & Usage](en/general-development/feature-proposals/expected-feature-proposal-decorum.md)
