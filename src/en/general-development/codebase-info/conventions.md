@@ -12,9 +12,12 @@ Keep in mind that some older areas of the codebase might not follow these conven
 
 ## Goob Station
 
-1. Every new prototype, localisation, and system / code file should be placed within a Goobstation folder, for example `Content.Server/Goobstation/Audio/CoolAudioSystem.cs`. It should be just as organised and have just as many subfolders as things outside the Goobstation folder.
-2. Every modification to existing code should have a comment indicating it's a goob station edit, following this general format `// Goobstation - Cool new update`.
-3. Namespaces should be declared with the same structure as folders.
+1. Every new prototype, localisation should be placed within a Goobstation folder (prototypes, assets), and system / code file in a custom goobstation module, for example `Content.Goobstation.Server/Audio/CoolAudioSystem.cs`. It should be just as organised and have just as many subfolders as things outside the Goobstation folder.
+2. Code related to a feature should be within its folder. This includes game rules, comps and other miscellaneous things that are using another system. Instead of having GameTicking/Rules/ChangelingRuleSystem.cs - do Changeling/GameTicking/Rules/ChangelingRuleSystem.cs.
+3. Every modification to Core module code should have a comment indicating it's a goob station edit, following this general format `// Goobstation - Cool new update`.
+4. Refactors to an existing Core system to accomodate for modularity must be marked as such via comment, and are an exception to 3 and 4.
+5. Modifications to the core module should be a single line call to an [extension method](https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/extension-methods) you have in a custom module.
+6. Namespaces should be declared with the same structure as folders.
 
 ## File Layout
 
