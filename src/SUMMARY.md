@@ -139,8 +139,8 @@ Guidelines & Proposals
 	- [Cargo/Salvage](en/space-station-14/departments/cargo-salvage.md)
 		- [PR Guidelines](en/space-station-14/departments/cargo-salvage/guidelines.md)
 
-    - [Proposals]()
-		- [Lavaland](en/space-station-14/departments/cargo-salvage/proposals/lavaland.md)
+    	- [Proposals]()
+			- [Lavaland](en/space-station-14/departments/cargo-salvage/proposals/lavaland.md)
 
 	- [Command](en/space-station-14/departments/command.md)
 		- [PR Guidelines](en/space-station-14/departments/command/guidelines.md)
