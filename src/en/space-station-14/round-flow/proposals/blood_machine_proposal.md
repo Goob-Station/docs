@@ -16,6 +16,7 @@ Blood Machines spawn close to the station in space, with no equipment and comms,
 BMs will die in about 5 minutes if it doesnt heal itself in time. They cant use welding to heal themselves, nor meds, the blood is the only option.
 
 Their only goal - survive, no matter the cost, because the time is ticking. Blood splashing heals an insane amount of heat damage and some brute with rads,
+Standing on blood heals them too, but very slowly. 
 Their fists deal 15 blunt damage and 30 structural, and they have jaws of life in their hands to actually get inside the station. 
 They have slots just like a normal IPC, meaning clothing and armor are available.
 
