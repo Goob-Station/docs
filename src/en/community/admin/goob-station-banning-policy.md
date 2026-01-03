@@ -131,6 +131,7 @@ Any player who requests to be banned from a department or from the server may be
 | Immersion | Text speak | W | W | **W** - 12hr GB | W - 12hr GB |
 | Immersion | OOC terms IC[^teachingException] | W | **W** - 12hr GB | **12hr** - 3d GB | 3d - 7.5d GB |
 | Immersion | Bypassing chat restrictions | W | W - **4hr** - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB |
+| Immersion | NITRP **(MRP Only)** | W | **W** - 12hr GB | 12hr - 3d GB | Indef GB |
 | Metagaming | Using info from death[^infoFromDeath] | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB | |
 | Metagaming | Using info from past life | 12hr - 48hr GB | 3d GB | **7d** - 7.5d GB | |
 | Metagaming | Metagaming round type | W - 12hr GB | 12hr - 3d GB | 3d - 7.5d GB | |
