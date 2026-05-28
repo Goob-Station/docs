@@ -114,3 +114,75 @@ Unfortunately, the method of Module Compilation described above doesn't solve th
 This problem is solved by adding the `Content.Modules.Server` and `Content.Modules.Client` projects. They reference all modules at once as a direct Project reference, so when a change is made to any module, it gets recompiled correctly.
 
 That's why you should **always use `Content.Modules` projects for development!**
+
+## Module organization
+
+Modules are highly recommended to be independent of other modules. This means that each module references only the core and nothing else.
+
+Here's a chart to represent this structure:
+
+```mermaid
+flowchart TD
+    Core[Core]
+    style Core stroke:#6b9bb3
+    Goobstation[Goobstation]
+    style Goobstation stroke:#6b9bb3
+    Lavaland[Lavaland]
+    style Lavaland stroke:#6b9bb3
+    Utils[Utils]
+    style Utils stroke:#6b9bb3
+    Modules[".Modules projects (end)"]
+    style Utils stroke:#6b9bb3
+
+    subgraph CustomModules["Custom Modules"]
+        Goobstation
+        Lavaland
+        Utils
+    end
+    style CustomModules stroke:#e91e63
+    
+    Core --> Goobstation
+    Core --> Lavaland
+    Core --> Utils
+
+    Goobstation --> Modules
+    Lavaland --> Modules
+    Utils --> Modules
+```
+
+The only exception for that convention are **library modules** that provide some general tools or API for other modules to use.
+
+Those may be required if there are multiple modules that use same features.
+
+For example, lets assume that both `Lavaland` and `Goobstation` modules need to use code from `Utils`.
+
+Then it's okay to change the project structure like this:
+
+```mermaid
+flowchart TD
+    Core[Core]
+    style Core stroke:#6b9bb3
+    Goobstation[Goobstation]
+    style Goobstation stroke:#6b9bb3
+    Lavaland[Lavaland]
+    style Lavaland stroke:#6b9bb3
+    Utils[Utils]
+    style Utils stroke:#6b9bb3
+    Modules[".Modules projects (end)"]
+    style Utils stroke:#6b9bb3
+
+    subgraph CustomModules["Custom Modules"]
+        Goobstation
+        Lavaland
+        Utils
+    end
+    style CustomModules stroke:#e91e63
+    
+    Core --> Utils
+
+    Utils --> Goobstation
+    Utils --> Lavaland
+
+    Goobstation --> Modules
+    Lavaland --> Modules
+```
