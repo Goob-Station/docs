@@ -28,6 +28,8 @@ Goob Reforged repository has a script to automatically create a module and conne
 
 - **Infix**: The module identifier, which is the middle part of a module name. For example, "Goobstation" in `Content.Goobstation.Common`.
 
+- **Postfix**: The special module identifier, which specifies its special role, for example `.Database`. Read [Special module projects](#special-module-projects) for more details.
+
 ## How
 
 ### Module manager
@@ -111,9 +113,7 @@ In order to fix this, each Core project should have a special .csproj `Target` t
 
 Unfortunately, the method of Module Compilation described above doesn't solve the issue entirely. When no changes are made to any files in the core module, the .csproj `Target` doesn't trigger, and modules are ignored even if they have some changes.
 
-This problem is solved by adding the `Content.Modules.Server` and `Content.Modules.Client` projects. They reference all modules at once as a direct Project reference, so when a change is made to any module, it gets recompiled correctly.
-
-That's why you should **always use `Content.Modules` projects for development!**
+Because of that, when you make changes to modules and not to the core projects, you have to compile the whole solution so the changes are applied correctly. This is done automatically if you launch from an IDE.
 
 ## Module organization
 
@@ -186,3 +186,10 @@ flowchart TD
     Goobstation --> Modules
     Lavaland --> Modules
 ```
+
+## Special module projects
+
+In `Goobstation` module folder, you can find some projects with weird Postfixes, such as `Content.Goobstation.Client.UIKit`, `Content.Goobstation.Server.Database`. Those are projects that have a unique role in code. Each of them has to be explained separately.
+
+- `.Server.Database` - a project that specifies a single Database model. At the moment Goob Reforged uses the core model and the Goob model for proper modularity.
+- `.Client.UIKit` - a project that references `Robust.Client` and `Content.Shared`, and which is referenced directly by `Content.Client`. Contains custom UI elements that have to be usable in `Content.Client`, without making changes to it directly.
