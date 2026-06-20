@@ -135,29 +135,28 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
   - Is this an attempt to enhance the round for players at all?
 - Centcom Response Teams may be used to help enhance ongoing rounds, bring rounds to a close, or add flavor to IC events
 
-```admonish info
-#### Joke/Weak Responses
+##### Joke/Weak Responses
 Sent to bring life back to the station. These are true powerhouses used in the most dire of situations.
 - Clown
 - Janitor
 
-#### Low Severity
+##### Low Severity
 Sent to address low-risk issues with the station that would normally require a CentCom response, such as reprimanding a misbehaving captain.
 - Intern
 - CentCom Officials
 
-#### Normal Severity
+##### Normal Severity
 Sent to address moderately dangerous incidents that cannot be addressed by the current station staff. For example, instances where most of the security detail has been killed and the station requests aid.
 These Teams should be dispatched only after the station officially requests aid (or contact with an official is lost), and only if the station is at a reasonable disadvantage against a threat.
 - ERT
 
-#### High Severity
+##### High Severity
 Sent to exterminate all life on the station, address extremely dangerous incidents on the station, and mutinies against Central Command.
 These teams should be dispatched only in extreme cases, when a round-ending admin event is called for.
 Normal antagonists should generally not face these unless taunting Central Command, and normal players should only face them in cases of full-blown mutiny
 - ERT Red
 - Deathsquad
-```
+
 
 #### Notes
 - Notes are a form of record, not a punishment. Notes should be issued to document any incidents of breaking rules that did not result in bans.
