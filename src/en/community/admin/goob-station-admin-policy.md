@@ -9,9 +9,9 @@ Our admin policy at Goob Station only applies to the Goob Station admin team.
 
 - You must apply on the forums following the rules and template to have a shot at being a game admin.
 - Accepted applicants will start as trial game admins.
-- You may not apply for trial game admin while you have any active bans or any recent bans within the last two months.
+- You may not apply for trial game admin while you have any active bans, any recent bans, or egregious notes (The severity of which will be determined by the Heads of Staff on a case-by-case basis) within the last two months.
 - Applicants must be at least 18 years old.
-- The Head Admins may accept or deny an application regardless of tally based on discretion.
+- The Heads of Staff team may accept or deny an application regardless of tally based on their discretion.
 - Full game administrators vote for applicants they want to accept or deny.
 
 ### Trial Game Administrator
@@ -19,6 +19,7 @@ Our admin policy at Goob Station only applies to the Goob Station admin team.
 Trial game admins are new staff learning the ropes. They are permitted only the most basic of administrative tools and are not permitted to greatly alter the flow of rounds or grant special requests. Trial game admins are welcome to be a part of player reports and ban appeals on the forums, even if they weren't involved in the incident - doing so is a great way to show your understanding of the rules and involvement in the project.
 
 - Trial game admins are assigned to admin mentors who assist them during their trial phase.
+- Mentors should ideally share similar time zones and schedules with their assignees. 
 - Should only possess restricted permissions.
 - Should not host admin events.
 
@@ -34,21 +35,21 @@ Trial game admins who have successfully passed their trial phase will be promote
 
 ### Senior Game Administrator
 
-Senior game administrators are selected by the Head Admins to advise and train other admins, as well as assist in day-to-day operations.
+Senior game administrators are selected by the Head Admins to advise and train other admins and assist with day-to-day operations.
 
 - Senior game administrators retain all of the expectations they had as normal Admins.
 - Assists in handling the training of trial game admins, and is expected to be regularly available for such.
 - Are expected to help with the admin application voting.
-- Will be assigned to and expected to assist with the ban appeals of game admins, retired, and on-leave staff.
+- Will be notified and expected to assist with the ban appeals of game admins, retired, and on-leave staff.
 - Senior game admins may not overrule others when there is a dispute about rules.
-- Are trusted with PII, but should not show any PII without 
+- Are trusted with PII, but should not show any PII without first consulting a Head Game Admin or the Head of Staff. Though there should typically never be a reason to disclose this information at any point.
 
 ### Head Game Administrator
 
 Head Game Administrators are responsible for the entire admin team and the rules/policies.
 
 - Head game administrators retain all of the expectations of each admin rank.
-- Handles the acceptance and denial of trial game admin applicants, as well as the approval of promotions to admin.
+- Responsible for initiating voting threads regarding the acceptance of trial game admins and their respective promotions.
 - Notifies about player reports weekly, triaging less egregious reports when there are too many.
 - Handles ban appeals daily
 - Also expected to assist with ban appeals.
@@ -57,6 +58,26 @@ Head Game Administrators are responsible for the entire admin team and the rules
 - The Head Admin role is an elected position, voted on by current Full Admins and up.
 - The vote will last however long the head of staff team decides, and the candidate(s) with the most votes are elected.
 - Candidates may vote for themselves, but can expect to be mocked for it publicly.
+- Head Game Administrators are expected to host and show up for the bi-weekly admin meetings.
+
+
+
+
+
+
+### Head of Staff
+
+The Head of Staff is the highest-ranking member of the staff team. Their role is to ensure the staff team follows policy and server rules, and to delegate staff. The Head of Staff is tasked with resolving interpersonal conflicts within the staff team and handling external server communications or problems, if they arise, to the best of their ability.
+
+- The Head of Staff is the big boss. 
+- Should be the ones discussing community removals when brought up.
+- Has the ability to veto votes if absolutely vital, to ensure the future prosperity of the community and game.
+- Handle anything related to or from other SS14 communities that may require their specific attention. Anything that wouldn’t be within the purview of Head Game Administrators
+- Head over to the Goob Station GitHub organization and its repositories.
+- Should inform and allow discussion on any and all rule changes. This includes clarifications or corrections.
+- They should always consider others’ opinions before making any large decision that may affect Goob, the community, or the staff team.
+- They should remain impartial in all decisions that allow it. The head of staff should never work against Goob or harbor any ill intent when making a decision.
+
 
 ## General Conduct and Policies
 ### General Behavior
@@ -66,17 +87,20 @@ Head Game Administrators are responsible for the entire admin team and the rules
 - Game Administrators are held to a higher standard than normal players.
   - Breaches of conduct by Administrators may result in more severe punishments, including, but not limited to, immediate dismissal.
 
+
 ### Playing the game
-- When in-game as an antagonist, head of staff, member of Security, or as a silicon (excluding pAI and Drone), you are required to de-admin. This includes becoming AN acting head of staff or being deputized by security.
-  - If you are the only admin on and wish to play and receive one of these roles, you will still be required to de-admin.
+- When in-game as a normal member of crew, antagonist, head of staff, member of Security, or as a silicon (excluding pAI and Drone), you are required to de-admin.
+  - The single exception to this rule is if you are the only admin on the server. However you must still respect the in-round limitations and not handle admin-helps you were involved in.
   - If you are currently handling any administrative issues, do not accept antagonist roles that are polled to ghosts.
-- Inform the other staff online if you are going to de-admin in order to play. This rule is simple common courtesy to keep the admin team informed and coordinated.
+- Inform the other staff online if you are going to de-admin in order to play. This rule is a simple matter of common courtesy to keep the admin team informed and coordinated.
 
 ### Impartiality and transparency
+
+- Admins should always aim to be as impartial as possible. Admins always have ultimate power over players and thus should be considerate of them at all times.
 - Administrative actions are to be carried out within admin channels. Any and all private communications while acting as an admin must be documented and shared within admin channels.
 - While you have the discretion to make decisions outside of the rules, you may not simply bypass rules you disagree with. Use your discretion wisely during unusual circumstances.
 - Do not resolve tickets/reports about you.
-- Do not handle issues involving your character in-game without explicit approval from a Senior admin. (Exceptions will be made for players blatantly griefing the server)
+- Do not handle issues involving your character in-game without explicit approval from a head admin (Exceptions will be made for players blatantly griefing the server)
 - Any form of bias in dealing with players is not tolerated; favoritism from players or other staff should not weigh in the decision-making process.
 
 ### Admin-help Conduct
@@ -84,16 +108,14 @@ Head Game Administrators are responsible for the entire admin team and the rules
 - Players who violate rules surrounding admin-helps should, at a minimum, be warned and noted for the round.
   - This applies even if the issue is valid and you choose to investigate the report; do not enable rude players to mistreat other admins, even if you can take it
   - Particularly egregious violations of player ticket conduct should be met with escalating bans based on how many times in the past this has been an issue.
-- Admins who are not in Stealth should be prepared to drop what they're doing and accept tickets immediately.
-  - If you are playing in the round and did not de-admin, this means you are duty-bound to go SSD at a moment's notice, regardless of what may be happening in front of you.
-  - Admins dodging admin-helps immediately after they have been submitted may be subject to disciplinary action unless a replacement admin is sought.
+- Admins who do not want to handle a specific ahelp should seek another admin to deal with it. 
 - Admins should notify players who have sent an admin-help when their issue is being investigated.
-- Players are not entitled to know the outcome of any individual ticket, and admins are not required to share the outcome.
-- Players should not be informed of punishments not issued to them.
-- You may remove all of a player's antag rep if they ahelp asking about it, as they are likely antag rep farming.
+  - Players are not entitled to know the outcome of any individual admin-help, and admins are not required to share the outcome.
+  - Players should not be informed of punishments not issued to them.
+
 - Do not intercept another admin's admin-help without asking them first. If you need to correct them or change their ruling, use the admin chat or PM the working admin instead.
 - If an admin-help becomes too complex or another issue prevents you from resolving it, inform the other admins through the admin chat and provide the username of the player admin-helping.
-- If there are open tickets at the end of the round, you may delay the round. The delay should be as short as possible, up to 10 minutes. If you are unable to finish all admin-helps you must handle them in the next round or refer the person to the forums.
+- If there are open tickets at the end of the round, you should consider inspecting logs or watching the replay to get further information to complete this Ahelp.
 
 ### Taking Action within a round
 - IC and OOC punishments are separate. That a player has suffered IC consequences (anything that is over when the round restarts) should have no bearing on OOC punishments (bans and notes) if the player has broken rules.
@@ -103,8 +125,7 @@ Head Game Administrators are responsible for the entire admin team and the rules
 - Players who are brought to the attention of Central Command (whether through admin-help or official IC contact) may be subject to IC intervention in cases where it would be more organic to the round flow. Sometimes it's better to hold off on the bwoink and let things play out for the benefit of the round at large. Explaining where a player has messed up can cause their character to change their behavior dramatically and unnaturally.
 - CentCom announcements (Create Command Report) are a great way to convey information to players about ongoing events, prefacing/warning about admin intervention, or to add flavor to the round. Announcements should remain IC at all times and should not be used for OOC communications.
 - The Head of Security may be contacted and instructed to restrain and strip the rank from other heads of staff who have proven to be disloyal to Nanotrasen
-- In cases where a more subtle touch is necessary, Nanotrasen may contact certain agents and empower them as an Internal Affairs Agent. If the chosen agent is caught, Nanotrasen will disavow them and claim to have no connections.
-  - Be sure to use a "Custom" antagonist to do this. Hitting the IAA button will make a full squad of IAA in the current round
+- In cases where a more subtle touch is necessary, Nanotrasen may contact certain agents and empower them as an Internal Affairs Agent. If the chosen agent is caught, Nanotrasen will disavow them and claim no connection.
 - Nanotrasen is occasionally known to employ the spider clan ninjas to "clean up" particularly messy situations, such as when station security has been found to be compromised and aiding the enemies of Nanotrasen.
 - In the case of antagonists acting out of line, any of the situations above may be relatively easily reversed as well - being disowned by the Syndicate is quite a dangerous thing after all.
 - Smites are also a way to punish minor IC misbehavior or rule breaks, and are especially good as a punishment for cursing the gods, or otherwise abhorrent behavior in prayers.
@@ -127,7 +148,7 @@ Sent to address low-risk issues with the station that would normally require a C
 
 #### Normal Severity
 Sent to address moderately dangerous incidents that cannot be addressed by the current station staff. For example, instances where most of the security detail has been killed and the station requests aid.
-These Teams should only be dispatched after the station officially requests aid (or contact with an official is lost) and only if the station is at a reasonable disadvantage against a threat.
+These Teams should be dispatched only after the station officially requests aid (or contact with an official is lost), and only if the station is at a reasonable disadvantage against a threat.
 - ERT
 
 #### High Severity
@@ -143,12 +164,12 @@ Normal antagonists should generally not face these unless taunting Central Comma
 - Read the notes to determine if they’re relevant to the player’s current misconduct.
 - When writing notes, describe the misconduct and how the player responded. Be sure to include the rules broken, the player's level of cooperation in the ticket, and any information or warnings given to the player.
 - All notes involving rule breaks should be visible to the player. Secret notes should be used only for unconfirmed issues or to document suspicious occurrences that are not rule breaks.
-- Do not show a player someone else's notes, be it through Discord or in-game means. If they want to share it, they can do so through the admin remarks tab in-game.
+- Do not show a player someone else's notes, be it through Discord or in-game means, unless it is to provide more information, proof, or arguments during appeals or admin complaints. If they want to share it, they can do so through the admin remarks tab in-game.
 - Notes can only be appealed if the note is invalid AND it has been less than three months since it was applied. This does not include wrongfully applied ban-notes, as those should have had their record already deleted, as written in the bans section.
 
 #### Bans
 - Job bans are to be given out when a player has shown to be too incompetent or unwilling to learn to play a role properly without compromising the game for others.
-  - If a player is being banned for an inability to be responsible with positions of authority, the player should be banned from all of Security and Head roles.
+  - If a player is being banned for an inability to be responsible with positions of authority, the player should be banned from all of the Security and Head roles.
   - If a player is being banned for an inability to follow silicon laws, the player should be banned from AI, Cyborg, and Positronic Brain.
   - If a player is violating antagonist conduct, they should be banned from ALL antagonist roles, not just the one they are violating.
   - If a player is abusing gimmicky or assistant roles to be disruptive, they should be banned from ALL of them (Clown, Mime, Gimmick).
@@ -165,8 +186,8 @@ There are five varieties of permanent bans that may be issued by admins:
 
 - Indefinite until appealed - for players who have disconnected mid-ticket or otherwise need to be forced to explain some situation on the forums, or if applied according to the banning policy. These bans may be lifted at the banning admin’s discretion, just like other normal bans are.
 - Soft voucher ban - Issued due to continued poor behavior, extreme griefing, or otherwise as a direct result of player actions. Unless the ban is found to be outrageously unwarranted by staff, it will require a 2-month waiting period and a vouch for good behavior from another server before it can be lifted. Only head game admins may handle appeals involving “permanent until appeal with vouch” bans, and they are not subject to individual admin discretion to be lifted early.
-- Hard voucher ban - Issued due to continued poor behavior, extreme griefing, ban evasion, or otherwise as a direct result of player actions. Unless the ban is found to be outrageously unwarranted by staff, these bans will require a 6-month waiting period and a vouch for good behavior from another server before the ban will be lifted. Only head game admins may handle appeals involving “permanent until appeal with vouch” bans, and they are not subject to individual admin discretion to be lifted early.
-- Total community removal - Issued to players who are thought to be irredeemable. If you have been handed one of these, you have truly messed up and will not be allowed back into the community under any circumstances. Total community removals are reserved for players who have been permanently banned again after receiving a vouch, those who repeatedly evade bans or those who have been voted out of the community by staff.
+- Hard voucher ban - Issued due to continued poor behavior, extreme griefing, ban evasion, or otherwise as a direct result of player actions. Unless the ban is found to be outrageously unwarranted by staff, it will require a 6-month waiting period and a vouch for good behavior from another server before it is lifted. Only head game admins may handle appeals involving “permanent until appeal with vouch” bans, and they are not subject to individual admin discretion to be lifted early. Admins must discuss and then vote on whether a voucher is deserved via the appeal system.
+- Total community removal - Issued to players who are thought to be irredeemable. If you have been handed one of these, you have truly messed up and will not be allowed back into the community under any circumstances. Total community removals are reserved for players who have been permanently banned again after receiving a vouch, those who repeatedly evade bans, or those who have been voted out of the community by staff. These must be discussed and voted on by the headmin team.
 - R9 removal - Issued to players who are found to be under our age requirement. These bans may only be issued by Head Administrators and are to be suppressed to prevent them from being listed by our API. If the exact age is known, the ban can be set to automatically expire when the player is presumed to meet our requirements. Otherwise, the ban is indefinite.
 
 Vouch Policy
@@ -179,6 +200,8 @@ Antagonists ***should not*** be added during extended rounds, but random events 
 - Mid-round antagonists should only be added when it is sensible to make the round more interesting (usually when existing antags are dead or ineffective)
 - Mid-round antagonists should almost always be randomly selected.
 - Admins manipulating antagonist spawning may not take the antagonist roles they have influenced or created.
+
+
 
 ### Ending rounds
 Rounds should be allowed to conclude naturally under most circumstances. However, rounds that run too long or have substantial issues may be artificially pushed towards their natural end under these guidelines.
@@ -199,8 +222,8 @@ Rounds should be allowed to conclude naturally under most circumstances. However
 Admin Events are large-scale modifications to the round that would dramatically affect the game's typical flow. When doing an admin event, you must do the following:
 
 - Before the event even begins, a player vote must be held (OOC Tab) with a majority in favor of participating in the event.
-  - The vote should not specify the details of the event, only that one is to be held.
-- An admin announcement must be made explaining that an admin event is occurring, and any information or expectations from the players must also be included. If an exemption to any rules is required, that must be stated as well.
+  - The vote should not specify the details of the event unless necessary.
+- A MOTD (motd command) should be created to explain that there is an event going on, which allows newly joining players to be informed
 - The admin(s) holding the event and managing its construction are responsible for making sure the event and round are done properly.
 - Major events must have the approval of a senior game admin or higher before occurring.
   - Events that change the rules must be approved by a Head Admin
@@ -215,27 +238,34 @@ Antagonist tokens are granted only in two rare circumstances:
 - When the player's antagonist round is inappropriately affected by an Administrator's interference.
 - Admins may grant the token at the direction of the head game administrators.
 Players whose antagonist rounds are griefed or ruined by other influences may be granted an antagonist token.
-Antagonist tokens may not be redeemed on extended or conversion rounds. You should not disclose the exact round type when refusing to grant a token redemption
+
+#### Token redemption guidelines
+ Admins have discretion over when antagonist tokens can be redeemed; if the round is too chaotic, they can defer redemption to another round. The exact reasoning for deferral should be kept vague to prevent players from guessing which antagonists are present in the round.
+
+- Antagonist tokens may not be redeemed on extended or conversion rounds. You should not disclose the exact round type when refusing to grant a token redemption
 Antagonist tokens may not be traded
-Token redemptions must take place in the lobby; tokens cannot be redeemed once a player has entered the round
+- Token redemptions must take place at the start of the round; tokens cannot be redeemed once a player has entered the round
+- Ghost role and mid-round token redemptions must be redeemed within 30 minutes or after.
 
 Antagonist tokens may only be redeemed for the following roles:
 - Traitor
 - Changeling
 - Heretic
 - Abductor(s) (choose partner, or solo)
-- Revenant
-- Ninja
+- Wraith
 - Slime
 - Sentient Station Pet or Monkey (act as an antagonist if you wish)
+- Slasher
+
 
 An antagonist token may only be redeemed for the following roles if the same role is not already present in the ongoing round. The exact reasoning for the denial should be withheld to prevent meta-gaming.
 - Blob
 - Space Dragon
-- Wizard
+- Space Ninja
 - Lone Operative (Should not be added if there are nuke-ops)
+- Heretic (If the single heretic has failed very early into the round)
 
-Admins have discretion over when antagonist tokens can be redeemed; if the round is too chaotic, they can defer redemption to another round. The exact reasoning for deferral should be kept vague to prevent players from guessing which antagonists are present in the round.
+
 
 ### Admin Strikes and Demotion
 Admin strikes are issued by a head game administrator as a punishment for breach of conduct.
