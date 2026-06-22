@@ -31,7 +31,7 @@ Trial game admins who have successfully passed their trial phase will be promote
 - They are encouraged to answer and respond to in-game player requests (keeping a means of RNG on hand to determine your responses keeps things interesting!)
 - They are given the ability to lock, relocate, and delete posts on the forum.
 - They are able to see and take part in hidden discussions restricted to full admins.
-- They may host events with permission from senior or head game administrators.
+- They may host major events with permission from senior or head game administrators.
 
 ### Senior Game Administrator
 
@@ -231,6 +231,7 @@ Admin Events are large-scale modifications to the round that would dramatically 
   - Forcing a secret game mode before a round has started, so long as the mode being forced is in rotation.
   - Triggering a random event within a current round
   - Creating a custom antagonist that can operate within normal antagonist conduct and does not alter the normal flow of a round for others
+  - Spawning Deathsquad, CCOs, ERT, or other emergency responses if the station's heads request it, or it is agreed upon via server vote.
  
 ### Antagonist Tokens
 Antagonist tokens are granted only in two rare circumstances:
