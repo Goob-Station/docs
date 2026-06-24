@@ -205,7 +205,6 @@ Antagonists ***should not*** be added during extended rounds, but random events 
 ### Ending rounds
 Rounds should be allowed to conclude naturally under most circumstances. However, rounds that run too long or have substantial issues may be artificially pushed towards their natural end under these guidelines.
 #### When to encourage a round to end
-- Rounds that exceed 90-minutes that have no clear end in sight
 - Issues with the server that negatively impact game performance and/or player experience
 - To accommodate a scheduled admin event
 - To accommodate important security/bug fixes (At a maintainer's discretion)
