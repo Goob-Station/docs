@@ -60,11 +60,6 @@ Head Game Administrators are responsible for the entire admin team and the rules
 - Candidates may vote for themselves, but can expect to be mocked for it publicly.
 - Head Game Administrators are expected to host and show up for the bi-weekly admin meetings.
 
-
-
-
-
-
 ### Head of Staff
 
 The Head of Staff is the highest-ranking member of the staff team. Their role is to ensure the staff team follows policy and server rules, and to delegate staff. The Head of Staff is tasked with resolving interpersonal conflicts within the staff team and handling external server communications or problems, if they arise, to the best of their ability.
@@ -82,6 +77,7 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
 ## General Conduct and Policies
 ### General Behavior
 - Maintain a decent standard of professionalism when operating within the community. Insulting, harassing, or intentionally targeting anyone in our community is not tolerated.
+- Maintain good activity within the community (socially and administration-wise)
 - If you are being insulted or harassed, don’t provoke or retort to their behavior, as it will only escalate hostility.
 - Do not spam ping members of the community or staff.
 - Game Administrators are held to a higher standard than normal players.
@@ -90,7 +86,7 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
 
 ### Playing the game
 - When in-game as a normal member of crew, antagonist, head of staff, member of Security, or as a silicon (excluding pAI and Drone), you are required to de-admin.
-  - The single exception to this rule is if you are the only admin on the server. However you must still respect the in-round limitations and not handle admin-helps you were involved in.
+  - The single exception to this rule is if you are the only admin on the server. However, you must still respect the in-round limitations and not handle admin-helps you were involved in.
   - If you are currently handling any administrative issues, do not accept antagonist roles that are polled to ghosts.
 - Inform the other staff online if you are going to de-admin in order to play. This rule is a simple matter of common courtesy to keep the admin team informed and coordinated.
 
@@ -264,8 +260,6 @@ An antagonist token may only be redeemed for the following roles if the same rol
 - Lone Operative (Should not be added if there are nuke-ops)
 - Heretic (If the single heretic has failed very early into the round)
 
-
-
 ### Admin Strikes and Demotion
 Admin strikes are issued by a head game administrator as a punishment for breach of conduct.
 When an Admin receives a total of three recent active strikes, they are to be demoted from their position immediately.
@@ -275,6 +269,13 @@ Game administrators may also be removed at any time, at the discretion of the he
 Violating the Admin Conduct will be judged based on what happened, how it happened, and external factors
 Admin strikes are removed by head game administrators through a unanimous agreement to repeal them.
 The demotions of senior game administrators are to be handled by the head game administrators. Depending on the strike(s), they may be demoted to Admin or removed from staff completely.
+
+### Inactivity
+Admins who have been inactive for two months may be manually retired at the discretion of a senior game administrator or head game administrator.
+- Inactive game admins may be asked whether they're still active, need a break, or would like to be retired from their position.
+- If the admin notifies the admin team of their inactivity beforehand, they may be put on break until further notice.
+  - This break may last however long the senior game administrators or head game administrators decide.
+    - If their inactivity extends longer than needed, they may be retired from the admin team and notified that they may return at any time (as long as they've proven they've been active enough to show they're up-to-date).
 
 ### Legal and Operations Policy
 The contents of administrative/staff channels are protected and should not be released without the express authorization of relevant project leadership and consent of all parties involved.
