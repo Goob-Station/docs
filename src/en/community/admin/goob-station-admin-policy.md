@@ -74,7 +74,7 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
 - They should remain impartial in all decisions that allow it. The head of staff should never work against Goob or harbor any ill intent when making a decision.
 
 
-## 2, General Conduct and Policies
+## 2 General Conduct and Policies
 ### 2.1 General Behavior
 - Maintain a decent standard of professionalism when operating within the community. Insulting, harassing, or intentionally targeting anyone in our community is not tolerated.
 - Maintain good activity within the community (socially and administration-wise)
