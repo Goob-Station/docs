@@ -4,15 +4,15 @@
 Our admin policy at Goob Station only applies to the Goob Station admin team.
 ```
 
-## Admin Ranks
+## 1 Admin Ranks
 ### New Applicants
 
-- You must apply on the forums following the rules and template to have a shot at being a game admin.
-- Accepted applicants will start as trial game admins.
-- You may not apply for trial game admin while you have any active bans, any recent bans, or egregious notes (The severity of which will be determined by the Heads of Staff on a case-by-case basis) within the last two months.
-- Applicants must be at least 18 years old.
-- The Heads of Staff team may accept or deny an application regardless of tally based on their discretion.
-- Full game administrators vote for applicants they want to accept or deny.
+- 1 You must apply on the forums following the rules and template to have a shot at being a game admin.
+- 2 Accepted applicants will start as trial game admins.
+- 3 You may not apply for trial game admin while you have any active bans, any recent bans, or egregious notes (The severity of which will be determined by the Heads of Staff on a case-by-case basis) within the last two months.
+- 4 Applicants must be at least 18 years old.
+- 5 The Heads of Staff team may accept or deny an application regardless of tally based on their discretion.
+- 6 Full game administrators vote for applicants they want to accept or deny.
 
 ### Trial Game Administrator
 
