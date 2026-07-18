@@ -4,8 +4,8 @@
 Our admin policy at Goob Station only applies to the Goob Station admin team.
 ```
 
-## Admin Ranks
-### New Applicants
+## 1 Admin Ranks
+### 1.1 New Applicants
 
 - You must apply on the forums following the rules and template to have a shot at being a game admin.
 - Accepted applicants will start as trial game admins.
@@ -14,7 +14,7 @@ Our admin policy at Goob Station only applies to the Goob Station admin team.
 - The Heads of Staff team may accept or deny an application regardless of tally based on their discretion.
 - Full game administrators vote for applicants they want to accept or deny.
 
-### Trial Game Administrator
+### 1.2 Trial Game Administrator
 
 Trial game admins are new staff learning the ropes. They are permitted only the most basic of administrative tools and are not permitted to greatly alter the flow of rounds or grant special requests. Trial game admins are welcome to be a part of player reports and ban appeals on the forums, even if they weren't involved in the incident - doing so is a great way to show your understanding of the rules and involvement in the project.
 
@@ -23,7 +23,7 @@ Trial game admins are new staff learning the ropes. They are permitted only the 
 - Should only possess restricted permissions.
 - Should not host admin events.
 
-### Game Administrator
+### 1.3 Game Administrator
 
 Trial game admins who have successfully passed their trial phase will be promoted to full admin status. Full admins are expected to try to keep rounds engaging without making the station constantly chaotic. Full admins are also strongly encouraged to act IC as members of Central Command, issuing reports and guiding the round.
 
@@ -33,7 +33,7 @@ Trial game admins who have successfully passed their trial phase will be promote
 - They are able to see and take part in hidden discussions restricted to full admins.
 - They may host major events with permission from senior or head game administrators.
 
-### Senior Game Administrator
+### 1.4 Senior Game Administrator
 
 Senior game administrators are selected by the Head Admins to advise and train other admins and assist with day-to-day operations.
 
@@ -44,7 +44,7 @@ Senior game administrators are selected by the Head Admins to advise and train o
 - Senior game admins may not overrule others when there is a dispute about rules.
 - Are trusted with PII, but should not show any PII without first consulting a Head Game Admin or the Head of Staff. Though there should typically never be a reason to disclose this information at any point.
 
-### Head Game Administrator
+### 1.5 Head Game Administrator
 
 Head Game Administrators are responsible for the entire admin team and the rules/policies.
 
@@ -60,7 +60,7 @@ Head Game Administrators are responsible for the entire admin team and the rules
 - Candidates may vote for themselves, but can expect to be mocked for it publicly.
 - Head Game Administrators are expected to host and show up for the bi-weekly admin meetings.
 
-### Head of Staff
+### 1.6 Head of Staff
 
 The Head of Staff is the highest-ranking member of the staff team. Their role is to ensure the staff team follows policy and server rules, and to delegate staff. The Head of Staff is tasked with resolving interpersonal conflicts within the staff team and handling external server communications or problems, if they arise, to the best of their ability.
 
@@ -74,8 +74,8 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
 - They should remain impartial in all decisions that allow it. The head of staff should never work against Goob or harbor any ill intent when making a decision.
 
 
-## General Conduct and Policies
-### General Behavior
+## 2 General Conduct and Policies
+### 2.1 General Behavior
 - Maintain a decent standard of professionalism when operating within the community. Insulting, harassing, or intentionally targeting anyone in our community is not tolerated.
 - Maintain good activity within the community (socially and administration-wise)
 - If you are being insulted or harassed, don’t provoke or retort to their behavior, as it will only escalate hostility.
@@ -84,13 +84,13 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
   - Breaches of conduct by Administrators may result in more severe punishments, including, but not limited to, immediate dismissal.
 
 
-### Playing the game
+### 2.2 Playing the game
 - When in-game as a normal member of crew, antagonist, head of staff, member of Security, or as a silicon (excluding pAI and Drone), you are required to de-admin.
   - The single exception to this rule is if you are the only admin on the server. However, you must still respect the in-round limitations and not handle admin-helps you were involved in.
   - If you are currently handling any administrative issues, do not accept antagonist roles that are polled to ghosts.
 - Inform the other staff online if you are going to de-admin in order to play. This rule is a simple matter of common courtesy to keep the admin team informed and coordinated.
 
-### Impartiality and transparency
+### 2.3 Impartiality and transparency
 
 - Admins should always aim to be as impartial as possible. Admins always have ultimate power over players and thus should be considerate of them at all times.
 - Administrative actions are to be carried out within admin channels. Any and all private communications while acting as an admin must be documented and shared within admin channels.
@@ -99,7 +99,7 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
 - Do not handle issues involving your character in-game without explicit approval from a head admin (Exceptions will be made for players blatantly griefing the server)
 - Any form of bias in dealing with players is not tolerated; favoritism from players or other staff should not weigh in the decision-making process.
 
-### Admin-help Conduct
+### 2.4 Admin-help Conduct
 - Handle tickets respectfully, do not be condescending or aggressive in admin PMs.
 - Players who violate rules surrounding admin-helps should, at a minimum, be warned and noted for the round.
   - This applies even if the issue is valid and you choose to investigate the report; do not enable rude players to mistreat other admins, even if you can take it
@@ -113,7 +113,7 @@ The Head of Staff is the highest-ranking member of the staff team. Their role is
 - If an admin-help becomes too complex or another issue prevents you from resolving it, inform the other admins through the admin chat and provide the username of the player admin-helping.
 - If there are open tickets at the end of the round, you should consider inspecting logs or watching the replay to get further information to complete this Ahelp.
 
-### Taking Action within a round
+### 2.5 Taking Action within a round
 - IC and OOC punishments are separate. That a player has suffered IC consequences (anything that is over when the round restarts) should have no bearing on OOC punishments (bans and notes) if the player has broken rules.
 - Admins are to cite broken rules within the admin-help, and any resulting bans or notes. Cite rule 0 if you are acting outside of the rules but in the best interest of the game.
 
@@ -175,7 +175,7 @@ Normal antagonists should generally not face these unless taunting Central Comma
 - Wrongfully applied bans that have been successfully appealed do not count towards escalating punishment, and should have the record hidden.
 - Appealed bans that were not wrongfully applied remain on the player's record.
 
-### Indefinite Bans
+### 2.6 Indefinite Bans
 
 There are five varieties of permanent bans that may be issued by admins:
 
@@ -189,7 +189,7 @@ Vouch Policy
 - Vouches are to be given out by the head game admins only.
 - Vouches are to be accepted from reputable servers with similar rules only. This is determined at the head game admin team's discretion; ask beforehand if you're not sure.
 
-## Special Conduct and Policies
+## 3. Special Conduct and Policies
 ### Creation of additional Antagonists
 Antagonists ***should not*** be added during extended rounds, but random events that do not trigger antagonists may still be manipulated.
 - Mid-round antagonists should only be added when it is sensible to make the round more interesting (usually when existing antags are dead or ineffective)
@@ -198,7 +198,7 @@ Antagonists ***should not*** be added during extended rounds, but random events 
 
 
 
-### Ending rounds
+### 3.1 Ending rounds
 Rounds should be allowed to conclude naturally under most circumstances. However, rounds that run too long or have substantial issues may be artificially pushed towards their natural end under these guidelines.
 #### When to encourage a round to end
 - Issues with the server that negatively impact game performance and/or player experience
@@ -212,7 +212,7 @@ Rounds should be allowed to conclude naturally under most circumstances. However
 - Triggering severe "random" events and/or creating failures within established station infrastructure (Such as disabling telecommunications)
 - If all else fails, total station destruction and/or round-ending antagonists (Lone Operatives are preferable) may be spawned.
 
-### Event protocol
+### 3.2 Event protocol
 Admin Events are large-scale modifications to the round that would dramatically affect the game's typical flow. When doing an admin event, you must do the following:
 
 - Before the event even begins, a player vote must be held (OOC Tab) with a majority in favor of participating in the event.
@@ -228,7 +228,7 @@ Admin Events are large-scale modifications to the round that would dramatically 
   - Creating a custom antagonist that can operate within normal antagonist conduct and does not alter the normal flow of a round for others
   - Spawning Deathsquad, CCOs, ERT, or other emergency responses if the station's heads request it, or it is agreed upon via server vote.
  
-### Antagonist Tokens
+### 3.3 Antagonist Tokens
 Antagonist tokens are granted only in two rare circumstances:
 - When the player's antagonist round is inappropriately affected by an Administrator's interference.
 - Admins may grant the token at the direction of the head game administrators.
@@ -260,7 +260,7 @@ An antagonist token may only be redeemed for the following roles if the same rol
 - Lone Operative (Should not be added if there are nuke-ops)
 - Heretic (If the single heretic has failed very early into the round)
 
-### Admin Strikes and Demotion
+### 3.4 Admin Strikes and Demotion
 Admin strikes are issued by a head game administrator as a punishment for breach of conduct.
 When an Admin receives a total of three recent active strikes, they are to be demoted from their position immediately.
 
@@ -270,14 +270,14 @@ Violating the Admin Conduct will be judged based on what happened, how it happen
 Admin strikes are removed by head game administrators through a unanimous agreement to repeal them.
 The demotions of senior game administrators are to be handled by the head game administrators. Depending on the strike(s), they may be demoted to Admin or removed from staff completely.
 
-### Inactivity
+### 3.5 Inactivity
 Admins who have been inactive for two months may be manually retired at the discretion of a senior game administrator or head game administrator.
 - Inactive game admins may be asked whether they're still active, need a break, or would like to be retired from their position.
 - If the admin notifies the admin team of their inactivity beforehand, they may be put on break until further notice.
   - This break may last however long the senior game administrators or head game administrators decide.
     - If their inactivity extends longer than needed, they may be retired from the admin team and notified that they may return at any time (as long as they've proven they've been active enough to show they're up-to-date).
 
-### Legal and Operations Policy
+### 3.6 Legal and Operations Policy
 The contents of administrative/staff channels are protected and should not be released without the express authorization of relevant project leadership and consent of all parties involved.
   - Game Logs may only be provided after sufficient sanitization, including the removal of Personal Information.
   - Game Logs may only be provided for official purposes.
