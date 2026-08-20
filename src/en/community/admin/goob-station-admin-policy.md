@@ -229,10 +229,12 @@ Admin Events are large-scale modifications to the round that would dramatically 
   - Spawning Deathsquad, CCOs, ERT, or other emergency responses if the station's heads request it, or it is agreed upon via server vote.
  
 ### 3.3 Antagonist Tokens
-Antagonist tokens are granted only in two rare circumstances:
+Antagonist tokens may be granted only in two rare circumstances:
 - When the player's antagonist round is inappropriately affected by an Administrator's interference.
 - Admins may grant the token at the direction of the head game administrators.
 Players whose antagonist rounds are griefed or ruined by other influences may be granted an antagonist token.
+
+Admins may chose to not give tokens even if they caused the antag's death or round removal if they have a good reason not to. Examples may include, pre-round warning that all antags are spawned by admins, thus will not provide a token or if a player is being entitled or belligerent about it. 
 
 #### Token redemption guidelines
  Admins have discretion over when antagonist tokens can be redeemed; if the round is too chaotic, they can defer redemption to another round. The exact reasoning for deferral should be kept vague to prevent players from guessing which antagonists are present in the round.
