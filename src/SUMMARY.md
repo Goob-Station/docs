@@ -133,6 +133,8 @@ Guidelines & Proposals
 	- [Shuttles](en/space-station-14/round-flow/shuttles.md)
 
 	- [Proposals]()
+
+ 		- [Blood Machine](en/space-station-14/round-flow/proposals/blood_machine_proposal.md)
 		
 - [User Interface](en/space-station-14/user-interface.md)
 	- [PR Guidelines](en/space-station-14/user-interface/guidelines.md)
